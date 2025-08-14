@@ -34,7 +34,7 @@ model = Transformer(
 
 ## Implementation Status
 
-- [ ] Basic project structure
+- [x] Basic project structure
 - [ ] Attention mechanism
 - [ ] Position encodings
 - [ ] Encoder layers
